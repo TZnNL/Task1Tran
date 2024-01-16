@@ -1,0 +1,232 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    font-family: 'Poppins';
+    margin: 0;
+}
+
+#container{
+    width: 100%;
+    margin: auto;
+}
+.f64{
+    font-size: 64px;
+    color: #0F1B4C;
+}
+.f35{
+
+    font-size: 35px;
+    color: #0F1B4C;
+}
+.f18{
+    font-size: 18px;
+}
+.f16{
+    font-size: 16px;
+}
+.f14{
+    font-size: 14px;
+}
+header{
+    width:100%;
+    background-color: #E6F0FF;
+    align-items: center;
+}
+
+.headnav{
+    width:100%;
+    margin:auto;
+    display: flex;
+    position: fixed;
+    background-color: #E6F0FF;
+    justify-content: center;
+    top: 0;
+}
+
+.ulheadnav{
+    width: 40%;
+    padding-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.ulheadnav2{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup{
+    padding: 10px 2rem;
+    background-color: #0F1B4C;
+    color: white;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+.headerBanner{
+    width: 70%;
+    margin: auto;
+    background-color: #E6F0FF;
+    display: flex;
+}
+.banner1{
+    width: 50%;
+    height: 100%;
+}
+
+
+.Discover{
+    font-size: 64px;
+    font-weight: bold;
+    margin-bottom: 5rem;
+}
+.MoreAboutMe{
+    padding: 10px 25px;
+    background-color: #0F1B4C;
+    color: white;
+    border-radius: 12px;
+    margin-top: 2rem;
+}
+.banner2{
+    width: 50%;
+    height: 100%;
+    text-align: end;
+}
+.banner2 img{
+    height: fit-content;
+
+}
+section{
+    width: 70%;
+    margin: auto;
+}
+.Main1{
+    height: 80px;
+    margin: 7rem 0;
+    display: flex;
+}
+.leftMain1{
+    width: 50%;
+}
+.rightMain1{
+    margin-left: auto;
+}
+
+.Main2{
+    width: 100%;
+    height: 100px;
+    margin: 2rem 0;
+}
+.Main2 ul{
+    display: flex;
+    justify-content: space-between;
+}
+.Main2>ul>img{
+    width: 15%;
+    height: 3rem;
+}
+.Main2>ul>img:hover{
+    box-shadow: 7px 7px 13px #E6F0FF ;
+}
+.Main3{
+    width: auto;
+    text-align: center;
+}
+
+.Main3Items{
+    display: flex;
+    width: 50%;
+    margin: 3rem auto;
+    justify-content: space-between
+    
+}
+
+.Main3 button{
+    padding: 1rem 2rem;
+    background-color: #0F1B4C;
+    border-radius: 12px;
+    color: white;
+}
+
+.Main4{
+    display: flex;
+    margin: 5rem 0;
+}
+.leftMain4{
+
+}
+.rightMain4{
+    margin-left: auto;
+    margin-top: 4rem;
+}
+.Main5{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.Main5Item{
+    width: 30%;
+}
+.Main5Item img{
+    width: 100%;
+}
+.Main6{
+    margin-top: 5rem;
+    display: flex;
+}
+.leftMain6{
+    width: 50%;
+
+}
+.leftMain6 img{
+    width: 100%;
+    margin: auto;
+}
+.rightMain6{
+    width: 50%;
+}
+.rightMain6 p{
+    width: 50%;
+    margin: auto;
+    margin-top: 4rem;
+}
+
+.Main7{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Main8{
+    width: 100%;
+    display: flex;
+    background-color: #0F1B4C;
+    height: 320px;
+    border-radius: 30px;
+    margin: 9rem 0;
+}
+.leftMain8{
+    width: 70%;
+    margin: auto 5rem;
+}
+.rightMain8{
+    width: 40%;
+    margin-top: -3rem;
+}
+footer{
+    margin-top: 6rem;
+    width: 70%;
+    margin: auto;
+}
+
+.leftF{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.end{
+    display: flex;
+}
