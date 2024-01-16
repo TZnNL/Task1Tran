@@ -70,11 +70,12 @@ header{
     margin: auto;
     background-color: #E6F0FF;
     display: flex;
+    padding-top: 10rem;
 }
 .banner1{
     width: 50%;
     height: 100%;
-}
+}   
 
 
 .Discover{
@@ -203,7 +204,7 @@ section{
     width: 100%;
     display: flex;
     background-color: #0F1B4C;
-    height: 320px;
+    height: 350px;
     border-radius: 30px;
     margin: 9rem 0;
 }
@@ -212,8 +213,11 @@ section{
     margin: auto 5rem;
 }
 .rightMain8{
-    width: 40%;
-    margin-top: -3rem;
+    width: 30%;
+    margin-top: -6rem;
+}
+.rightMain8 img{
+    width: 50%;
 }
 footer{
     margin-top: 6rem;
