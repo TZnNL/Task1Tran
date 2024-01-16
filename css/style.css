@@ -204,7 +204,7 @@ section{
     width: 100%;
     display: flex;
     background-color: #0F1B4C;
-    height: 350px;
+    height: 280px;
     border-radius: 30px;
     margin: 9rem 0;
 }
@@ -214,10 +214,10 @@ section{
 }
 .rightMain8{
     width: 30%;
-    margin-top: -6rem;
 }
 .rightMain8 img{
     width: 50%;
+    margin-top: -3rem;
 }
 footer{
     margin-top: 6rem;
